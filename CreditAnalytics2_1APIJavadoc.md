@@ -1,0 +1,1 @@
+Javadoc API Guide [html](http://www.credit-trader.net/CreditSuite/docs/Javadoc/) [jar](http://www.credit-trader.net/CreditSuite/docs/CreditSuiteJavadoc.jar)

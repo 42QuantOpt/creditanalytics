@@ -1,0 +1,1 @@
+Credit Suite Product and Functional Coverage [pdf](http://www.credit-trader.net/CreditSuite/docs/Coverage.pdf)\

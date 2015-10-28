@@ -1,0 +1,1 @@
+[Creadit Analytics Package Scheme](http://www.credit-trader.net/CreditSuite/docs/PackageScheme.pdf)

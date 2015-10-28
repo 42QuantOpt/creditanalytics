@@ -1,0 +1,1 @@
+[Credit Analytics Samples](http://www.credit-trader.net/Samples.html)
